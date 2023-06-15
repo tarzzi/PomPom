@@ -5,7 +5,7 @@
     "id": "${{TEAMS_APP_ID}}",
     "version": "1.0.0",
     "developer": {
-        "name": "SPFx + Teams Dev",
+        "name": "@Tarzzi",
         "websiteUrl": "https://products.office.com/en-us/sharepoint/collaboration",
         "privacyUrl": "https://privacy.microsoft.com/en-us/privacystatement",
         "termsOfUseUrl": "https://www.microsoft.com/en-us/servicesagreement"
@@ -15,8 +15,8 @@
         "full": "Full name for PomPom"
     },
     "description": {
-        "short": "Short description of PomPom",
-        "full": "Full description of PomPom"
+        "short": "Pomodoro timer",
+        "full": "Timer for keeping track of focus and breaks"
     },
     "icons": {
         "color": "color.png",
