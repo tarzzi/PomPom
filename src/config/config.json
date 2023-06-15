@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "pom-pom-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/pomPom/PomPomWebPart.js",
+          "manifest": "./src/webparts/pomPom/PomPomWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "PomPomWebPartStrings": "lib/webparts/pomPom/loc/{locale}.js"
+  }
+}
